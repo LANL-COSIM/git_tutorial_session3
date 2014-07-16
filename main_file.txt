@@ -3,3 +3,15 @@ This is the main file for the repo.
 This repository will be used for learning git.
 
 In addition to learning git, people can learn how to make good commit messages.
+
+A good commit message is like a good email. It has a well written easy to read
+subject that is short, followed by a longer well written body. Both are
+separated by a blank line. The subject should not be longer than 50 characters
+
+For example:
+
+xxxxxxxx1xxxxxxxxx2xxxxxxxxx3xxxxxxxxxx4xxxxxxxx5
+This is the subject of my commit. No more than 50
+
+This is the body of my commit, it can be longer than the subject
+and should clearly explain what the purpose of this commit is.
